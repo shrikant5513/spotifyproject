@@ -1,0 +1,15 @@
+{
+	"name": "df-shrifactoryazureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d348ab96-f8b6-4e51-b35a-39f8acb9b794",
+		"tenantId": "58ada746-6a74-4a94-ae1c-52936945e6c1"
+	}
+}
